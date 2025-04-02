@@ -3,7 +3,7 @@ import React from "react";
 const cardItems = [
   {
     id: 1,
-    img: "/age_calc1 (1).png",
+    img: "/age_calc1.png",
     title: "Age Calculator",
     description: "A web app that calculates a user's age based on their date of birth.",
     link: "https://prajakta-ss.github.io/Age-calculator/"
